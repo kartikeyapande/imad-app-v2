@@ -1,7 +1,7 @@
-console.log('Loaded')
-console.log('Loaded')
-console.log('Loaded')
-console.log('Loaded')
-console.log('Loaded')
-console.log('Loaded')
-console.log('Great it has jst loaded')
+console.log('Loaded');
+console.log('Loaded');
+console.log('Loaded');
+console.log('Loaded');
+console.log('Loaded');
+console.log('Loaded');
+console.log('Great it has jst loaded');
