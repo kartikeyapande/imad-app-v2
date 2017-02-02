@@ -18,7 +18,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/Mayhem', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'Mayhem/.html'));
+  res.sendFile(path.join(__dirname, 'ui', 'Mayhem.html'));
 });
 
 app.get('/ui/main.js',function(req,res) {
