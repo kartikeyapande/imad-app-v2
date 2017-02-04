@@ -1,7 +1,7 @@
-console.log('Loaded');
-console.log('Loaded');
-console.log('Loaded');
-console.log('Loaded');
-console.log('Loaded');
-console.log('Loaded');
-console.log('Great it has jst loaded');
+var element = document.getElementById('bd');
+var c =0;
+element.onclick= function(){
+    var count = document.getElementById('count');
+    c=c +1;
+    count.innerHTML=c.toString();
+};
